@@ -1,0 +1,6 @@
+*.cap
+*.csv
+*.log
+*.netxml
+*.hc22000
+/tmp/
