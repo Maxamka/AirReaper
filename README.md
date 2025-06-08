@@ -27,22 +27,3 @@ You can use the provided script to check and install requirements:
 
 ```bash
 ./check_requirements.sh
-
-🚀 Usage
-
-chmod +x airreaper.sh
-sudo ./airreaper.sh
-
-📁 Output
-
-Captured .cap and .hc22000 files will be stored in the current directory:
-
-    /cap for raw captures
-
-    /hc for converted files
-
-🛠️ License
-
-This project is licensed under the MIT License.
-
-    ⚠️ Educational use only. Do not use against networks you don’t own or have explicit permission to test.
